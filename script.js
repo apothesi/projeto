@@ -195,10 +195,10 @@ const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').match
     {
       pergunta: 'Se este site fosse um processo judicial de verdade, o veredito seria:',
       opcoes: [
-        'Culpado(a) de ser fofo(a) demais',
+        'Culpado de ser fofo(a) demais',
         'Inocente, mas precisa parar de se fazer de difícil',
-        'Condenado(a) a me aturar por muito mais tempo',
-        'Caso encerrado com pedido de casamento (relaxa, não hoje)'
+        'Condenado a me aturar por muito mais tempo',
+        'Caso encerrado com pedido de casamento (não hoje)'
       ]
     }
   ];
